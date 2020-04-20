@@ -11,10 +11,10 @@
   ],
   "require": {
     "php": "^7.0",
-    "illuminate/container": "~5.4",
-    "illuminate/contracts": "~5.4",
-    "illuminate/database": "~5.4",
-    "illuminate/support": "~5.4",
+    "illuminate/container": "^7.0",
+    "illuminate/contracts": "^7.0",
+    "illuminate/database": "^7.0",
+    "illuminate/support": "^7.0",
     "spatie/laravel-translatable": "^2.0"
   },
   "require-dev": {
