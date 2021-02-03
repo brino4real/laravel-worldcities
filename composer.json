@@ -1,5 +1,5 @@
 {
-  "name": "coldcoder/laravel-worldcities",
+  "name": "brino4real/laravel-worldcities",
   "description": "A Laravel package to retrieve cities in the world",
   "type": "library",
   "license": "MIT",
